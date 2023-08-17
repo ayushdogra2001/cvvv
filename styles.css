@@ -1,0 +1,33 @@
+
+h1{
+    font-family: Rubik Wet Paint;
+    font-size:xx-large
+ }
+ h2{
+    margin: 0;
+    font-size:30px;
+ }
+
+
+#software{
+    text-decoration:underline ;
+    font-size:30px;
+    font-family: Rubik Wet Paint;
+}
+hr{
+    
+    border-style:none;
+    border-top-style:dotted;
+    border-color:white;
+    border-width:10px;
+    width:10%;
+}
+.skillpara{
+    clear: both;
+}
+
+.fotter{
+margin: 100px;
+padding:50px
+
+}

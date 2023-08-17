@@ -1,0 +1,25 @@
+.sun{
+    position: absolute;
+    left:1200px;
+    height: 100px;
+    width: 100px;
+}
+#cloud1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top:350px;
+    left:600px;
+}
+#cloud2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom:350px;
+    left:750px;
+}
+
+.skill{
+    padding: 50px;
+
+}
